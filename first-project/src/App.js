@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import ReactDummy from './React';
 
 function App() {
   return (
@@ -9,6 +10,10 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+ <h2>hello worjdf</h2>
+njdcdcdcnndjkcndjkcndjkjkd
+
+
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -16,6 +21,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          <ReactDummy/>
         </a>
       </header>
     </div>
